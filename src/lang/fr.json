@@ -1,0 +1,85 @@
+{
+    "auth": {
+        "failed": "These credentials do not match our records.",
+        "throttle": "Too many login attempts. Please wait before retrying.",
+        "otpSent": "We have sent you a validation code by sms!.",
+        "confirmPhone": "Un code de validation sera envoyé à ce numéro ou à votre adresse email, continuer",
+        "checkPhone": "Verifiez votre numero",
+        "resendOTP": "renvoyer le code otp"
+    },
+    "messages": {
+        "screens": {
+            "onboarding": {
+                "title": "Tracker vos colis",
+                "description": "vous permet de tracker votre colis de la commande jusqu'a la livraison de maniere simple."
+            },
+            "login": {
+                "title": "Authentification",
+                "description": "authentifiez-vous en utilisant votre numéro"
+            },
+            "register": {
+                "title": "A propos de vous",
+                "description": "Mettez votre nom complet"
+            },
+            "otp": {
+                "title": "Vérification OTP",
+                "description": "Veuillez saisir le code envoyé via SMS",
+                "noOTP": "Vous n'avez pas reçu le code"
+            },
+            "home": {
+                "title": "Écran d'accueil"
+            },
+            "account": {
+                "title": "Votre Compte",
+                "description": "Vos informations personnelles",
+                "changePhone": "Changer le numéro",
+                "changeLanguage": "Changer la langue",
+                "checkEmailOrName": "Verifiez votre nom ou email"
+            },
+            "changePhone": {
+                "title": "Changer le numéro",
+                "description": "Renseignez le nouveau numéro"
+            },
+            "lang": {
+                "title": "Votre langue",
+                "description": "Choisissez une langue que vous préféré"
+            },
+            "orderDetails": {
+                "title": "Details du colis",
+                "description": "Details  de votre colis"
+            },
+            "orderTimeline": {
+                "title": "Historique du colis",
+                "description": "L'historique de votre colis"
+            },
+            "checkout": {
+                "title": "Paiement",
+                "description": "complétez votre paiement"
+            },
+            "orders": {
+                "title": "Vos Colis",
+                "description": "Tout vos colis"
+            }
+        },
+        "submit": "Envoyer",
+        "confirmation": "Confirmation",
+        "authenticate": "S'authentifier",
+        "phone": "Téléphone",
+        "email": "Email",
+        "firstName": "Nom",
+        "lastName": "Prenom",
+        "RecordingCompleted": "Enregistrement reussi",
+        "and": "et",
+        "getStarted": "Commencer",
+        "skip": "Passer",
+        "confirm": "Confirmer",
+        "cancel": "Annuler",
+        "required": "Obligatoire",
+        "not": "non",
+        "addPayMode": "Ajouter un moyen de paiement",
+        "languages": {
+            "en": "Anglais",
+            "fr": "Français"
+        }
+    }
+}

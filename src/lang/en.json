@@ -1,0 +1,85 @@
+{
+    "auth": {
+        "failed": "These credentials do not match our records.",
+        "throttle": "Too many login attempts. Please wait before retrying.",
+        "otpSent": "We have sent you a validation code by sms!.",
+        "confirmPhone": "A validation code will be sent to this number, continue",
+        "checkPhone": "Check your phone number",
+        "resendOTP": "resend OTP code"
+    },
+    "messages": {
+        "screens": {
+            "onboarding": {
+                "title": "Track your parcels",
+                "description": "allows you to track your package from order to delivery in a simple way."
+            },
+            "login": {
+                "title": "Authentication",
+                "description": "authenticate using your phone number"
+            },
+            "register": {
+                "title": "About you",
+                "description": "Put your full name"
+            },
+            "otp": {
+                "title": "OTP Verification",
+                "description": "Please enter the code sent via SMS",
+                "noOTP": "You didn't receive the code"
+            },
+            "home": {
+                "title": "Home Screen"
+            },
+            "account": {
+                "title": "Your account",
+                "description": "Your personal information",
+                "changePhone": "Change phone number",
+                "changeLanguage": "Change language",
+                "checkEmailOrName": "Verify your name or email"
+            },
+            "changePhone": {
+                "title": "Change phone number",
+                "description": "Fill in the new number"
+            },
+            "lang": {
+                "title": "Your language",
+                "description": "choose a language you prefer"
+            },
+            "orderDetails": {
+                "title": "Parcel details",
+                "description": "Your parcel details"
+            },
+            "orderTimeline": {
+                "title": "Parcel History",
+                "description": "Your parcel history"
+            },
+            "checkout": {
+                "title": "Payment",
+                "description": "complete your payment"
+            },
+            "orders": {
+                "title": "Parcels",
+                "description": "Your Parcels"
+            }
+        },
+        "submit": "Send",
+        "confirmation": "Confirmation",
+        "authenticate": "Login",
+        "phone": "Phone number",
+        "email": "Email",
+        "firstName": "First name",
+        "lastName": "Last name",
+        "RecordingCompleted": "Recording completed",
+        "and": "and",
+        "getStarted": "Get started",
+        "skip": "Skip",
+        "confirm": "Confirm",
+        "cancel": "cancel",
+        "required": "Required",
+        "not": "no",
+        "addPayMode": "Add a payment method",
+        "languages": {
+            "en": "English",
+            "fr": "French"
+        }
+    }
+}
