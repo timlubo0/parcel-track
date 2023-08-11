@@ -10,8 +10,8 @@
     "messages": {
         "screens": {
             "onboarding": {
-                "title": "Tracker vos colis",
-                "description": "vous permet de tracker votre colis de la commande jusqu'a la livraison de maniere simple."
+                "title": "Shopping et tracking des commandes",
+                "description": "vous permet de commander à l'international et de tracker votre colis de la commande jusqu'à la livraison de manière simple."
             },
             "login": {
                 "title": "Authentification",

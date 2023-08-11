@@ -40,7 +40,7 @@ class AppTopBar extends React.Component<AppTopBarProps, {waitingPaymentsAmount: 
           <View style={{  flexDirection: 'row', marginTop: Constants.statusBarHeight - 40 }}>
             <View style={{ flex: 1 }}>
               <Title>{appConfig.expo.name}</Title>
-              <Text>Bienvenue sur Pixel Track</Text>
+              <Text>Tracking de vos colis</Text>
             </View>
             <View style={{ margin: 5, }}> 
               <TouchableOpacity onPress={() => navigation.navigate('AccountScreen')}>

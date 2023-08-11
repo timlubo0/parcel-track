@@ -2,7 +2,7 @@ const axios = require('axios').default;
 
 class API{
 
-  private baseUrl: string = 'http://192.168.88.19:3333/api';
+  private baseUrl: string = 'https://lido-world-shop-api-gateway.onrender.com/api';
 
   public async get(url: string, authorization?: string) {
     try {
